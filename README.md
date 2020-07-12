@@ -5,7 +5,7 @@ This repository houses code that displays examples of using SQL to query a datab
 This README.md file will serve as a roadmap to this repository. The repository is open and available to the public.
 
 ### Directories and files to be aware of:
-* A data/ directory that houses code to generate a database with astronomy facts in multiple relational tables.
+* A data/ directory that houses code to generate a database with astronomy facts in multiple relational tables. _Note:_ to query the data tables, create the database first by running the Jupyter notebook titled data_creation in this directory.
 * A notebooks/ directory that houses a Jupyter Notebook which has code to query the tables.
 
 ### Results
